@@ -66,6 +66,7 @@ hr{
 
 .prodts{
     display: flex;
+    flex-direction: column;
     width: 95%;
     justify-content: center;
 }
